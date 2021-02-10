@@ -1,0 +1,8 @@
+"unlitGeneric"
+{
+	"$basetexture" "Chinook_sky"
+    	 "$surfaceprop" "metal"
+    	"$model" "1"
+	"$translucent" 1
+
+}

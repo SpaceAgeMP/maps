@@ -1,0 +1,6 @@
+"vertexlitGeneric" {
+    "$basetexture" "astbelt\ast_med2"
+    "$surfaceprop" "dirt"
+    "$model" "1"
+    "$halflambert" 1
+}

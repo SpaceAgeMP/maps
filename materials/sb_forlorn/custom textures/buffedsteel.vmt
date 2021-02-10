@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sb_forlorn/custom textures/buffed steel"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.5
+}

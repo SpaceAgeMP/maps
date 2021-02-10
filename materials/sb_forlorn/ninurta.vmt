@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "sb_forlorn/Ninurta"
+    	 "$surfaceprop" "metal"
+    	"$model" "1"
+
+}

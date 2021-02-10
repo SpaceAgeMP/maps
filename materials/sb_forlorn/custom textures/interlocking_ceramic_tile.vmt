@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "sb_forlorn/custom textures/interlocking tile"
+	"$surfaceprop" "brick"
+	"$bumpmap" "sb_forlorn/custom textures/interlocking tile_n"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 0.5
+}

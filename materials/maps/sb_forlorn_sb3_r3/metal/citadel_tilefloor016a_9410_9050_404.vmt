@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_TILEFLOOR016A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/sb_forlorn_sb3_r3/c9410_9050_404"
+	}
+}

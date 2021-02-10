@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR020A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/sb_gooniverse_v4/c-10524_-5780_-9418"
+	}
+}

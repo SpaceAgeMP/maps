@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/sb_forlorn/custom textures/lava/lava.vmt"
+	"insert"
+	{
+		"$waterdepth"		"113"
+	}
+}

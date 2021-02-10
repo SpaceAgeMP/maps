@@ -1,0 +1,1 @@
+"UnlitGeneric" { "$baseTexture" "sb_forlorn/buttons/doorswitch" "Proxies" { "ToggleTexture" { "toggleTextureVar" "$baseTexture" "toggleTextureFrameNumVar" "$frame" "toggleTextureShouldWrap" "0" } } }

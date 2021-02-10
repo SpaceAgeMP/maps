@@ -1,0 +1,8 @@
+"unlitGeneric"
+{
+	"$basetexture" "sb_forlorn/Ninurta_sky"
+    	 "$surfaceprop" "metal"
+    	"$model" "1"
+	"$translucent" 1
+
+}

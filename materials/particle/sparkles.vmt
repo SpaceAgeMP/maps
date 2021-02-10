@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesVertexColorAlphaBlend
+	"$translucent" 1
+	"$basetexture" "particle/new_sparkles_01"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

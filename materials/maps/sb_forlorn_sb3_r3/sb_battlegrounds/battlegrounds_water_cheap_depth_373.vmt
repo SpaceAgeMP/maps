@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/sb_battlegrounds/battlegrounds_water_cheap.vmt"
+	"insert"
+	{
+		"$waterdepth"		"373"
+	}
+}

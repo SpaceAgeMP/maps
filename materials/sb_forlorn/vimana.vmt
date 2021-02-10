@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$basetexture" "sb_forlorn/Vimana"
+    	 "$surfaceprop" "metal"
+    	"$model" "1"
+
+}

@@ -1,0 +1,7 @@
+"vertexlitGeneric" {
+    "$basetexture" "endgame\endgame"
+    "$surfaceprop" "metal"
+    "$model" "1"
+    "$translucent" 1
+    "$additive" 1
+}

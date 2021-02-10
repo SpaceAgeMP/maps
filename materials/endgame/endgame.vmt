@@ -1,0 +1,6 @@
+"vertexlitGeneric" {
+    "$basetexture" "endgame\endgame"
+    "$surfaceprop" "metal"
+    "$model" "1"
+    "$halflambert" 1
+}

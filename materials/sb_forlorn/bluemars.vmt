@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "sb_forlorn/bluemars"
+	"model" 1
+	"$envmapmode" 1
+		
+}

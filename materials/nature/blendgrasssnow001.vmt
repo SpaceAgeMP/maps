@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/snowfloor002a"
+	"$basetexture2" "nature/dirtfloor002a"
+	"%tooltexture" "nature/blendgrassgrass001a_tooltexture"
+	"%keywords" "custom"
+}

@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$basetexture" "sb_forlorn/Condradirck"
+    	 "$surfaceprop" "metal"
+    	"$model" "1"
+
+}

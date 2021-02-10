@@ -1,0 +1,7 @@
+"LightmappedGeneric" 
+{
+	"$basetexture" "nature\lava"
+	"$surfaceprop" "dirt"
+	"%keywords" "custom"
+	"$selfillum" 1
+}

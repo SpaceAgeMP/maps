@@ -1,0 +1,19 @@
+"UnlitGeneric"
+{
+	// Original shader: basetexture
+	"$basetexture" "sb_forlorn/custom textures/lava/lava"
+	"$surfaceprop" "water"
+	"%compilewater" 1
+	"$abovewater" 1
+	"$bottommaterial" "sb_forlorn/custom textures/lava/lava"
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" 0.5
+			"texturescrollangle" 60
+		}
+	}
+}
